@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@Ubuntu" uuid="c8a3be64-e93d-4f5c-a8e3-c1fd4e601d97">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.35.129:3306/restautant?servertimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="spark@192.168.35.129" uuid="2668f601-c08c-4321-824b-57995bd44828">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.35.129:3306/spark</jdbc-url>
+    </data-source>
+  </component>
+</project>
