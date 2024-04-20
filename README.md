@@ -1,0 +1,2 @@
+# SparkCourseDesign
+Spark大数据处理技术的简单课程设计，其中涉及到spark的数据处理和分析以及可视化的知识。。
